@@ -1,0 +1,43 @@
+*{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center; 
+
+}
+.p2
+{
+   background-color: black;
+   width: 500px;
+   height: 300px;
+   border-radius: 10px;
+   opacity: 70%;
+ 
+   
+
+
+}
+.center{
+   margin-top: 200px;
+   
+}
+.a1{
+   padding: 10px 10px;
+   width: 150px;
+   background: linear-gradient(50deg,white,lightblue 50%);
+   border-radius: 5px 20px;
+}
+#Log{
+   background:linear-gradient(45deg,skyblue,blue);
+   padding: 10px 10px;
+   border-radius: 10px;
+   width: 100px;
+  
+}
+#Log2{
+   text-decoration: none;
+   
+}
+
+
+
+
